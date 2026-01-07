@@ -1,0 +1,8 @@
+{
+  "name": "EduNexus - Indian College ERP & Portal",
+  "description": "A comprehensive, production-grade college website and ERP system featuring admissions, LMS, attendance, and administration modules tailored for the Indian higher education sector.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
