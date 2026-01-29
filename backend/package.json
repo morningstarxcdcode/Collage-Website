@@ -36,6 +36,7 @@
     "razorpay": "^2.9.6",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
+    "lodash": "^4.17.23",
     "stripe": "^20.3.0",
     "telegraf": "^4.16.3",
     "typeorm": "^0.3.28",
@@ -82,5 +83,8 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "overrides": {
+    "lodash": "^4.17.23"
   }
 }
